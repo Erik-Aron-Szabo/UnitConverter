@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="km">Kms</string>
+    <string name="mi">Miles</string>
+    <string name="convert">Convert</string>
+    <string-array name="km_mile">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+</resources>
